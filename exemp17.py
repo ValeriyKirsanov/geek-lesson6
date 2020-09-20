@@ -13,5 +13,5 @@ class MassCount(Road) :
         self.volume = volume
 
 
-r = MassCount(25, 10000, 125)
+r = MassCount(20, 5000, 5)
 print(r.mass())
